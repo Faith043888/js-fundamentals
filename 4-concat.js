@@ -1,0 +1,7 @@
+//#! /usr/bin/node
+// 4-concat.js
+
+const firstArg = process.argv[2];
+const secondArg = process.argv[3];
+
+console.log(`${firstArg} is ${secondArg}`);
